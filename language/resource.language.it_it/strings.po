@@ -1108,7 +1108,7 @@ msgstr "Nascondi notifica a scomparsa durante la riproduzione"
 #: /xml/SkinSettings.xml
 msgctxt "#40078"
 msgid "Music OSD"
-msgstr "OSD mMsica"
+msgstr "OSD Musica"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40079"
